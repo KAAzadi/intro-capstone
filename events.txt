@@ -1,0 +1,63 @@
+events = [
+{
+"event_name" : "Syllabus/Ice Breaker",
+"id" : 1,
+"created_at" : "2023-01-07T05:03:09.000000Z",
+"event_description" : "First day of class we'll get to know each other with a small \"hackathon\" activity",
+"class_type" : "Lab",
+"syllabus_id" : 1,
+"updated_at" : "2023-01-07T06:29:51.000000Z",
+"event_date" : "2023-01-17"
+},
+{
+"event_name" : "How to pitch an idea",
+"id" : 2,
+"created_at" : "2023-01-07T06:45:37.000000Z",
+"event_description" : "We will learn how to pitch an enticing project idea.",
+"class_type" : "Lecture",
+"syllabus_id" : 1,
+"updated_at" : "2023-01-07T06:45:37.000000Z",
+"event_date" : "2023-01-18"
+},
+{
+"event_name" : "Project Brainstorming",
+"id" : 3,
+"created_at" : "2023-01-07T06:47:55.000000Z",
+"event_description" : "We will learn what tools are out there for building great capstone projects. We will also talk about what solving problems and avoiding picking technology for technology sake.",
+"class_type" : "Lab",
+"syllabus_id" : 1,
+"updated_at" : "2023-01-16T13:50:23.000000Z",
+"event_date" : "2023-01-19"
+},
+{
+"event_name" : "Individual elevator pitch",
+"id" : 4,
+"created_at" : "2023-01-07T06:48:50.000000Z",
+"event_description" : "All students will pitch their projects.",
+"class_type" : "Lab",
+"syllabus_id" : 1,
+"updated_at" : "2023-01-07T06:48:50.000000Z",
+"event_date" : "2023-01-24"
+},
+{
+"event_name" : "Test Procedures Document",
+"id" : 26,
+"created_at" : "2023-01-10T04:02:09.000000Z",
+"event_description" : "The Test Procedures document describes the approach and tests to be performed to verify the requirements specified in the Requirements Document. It includes procedures for unit tests, which involve testing individual methods with input parameter values and expected results, using mock objects to stub external classes. It also includes integration tests, which demonstrate each use-case based on the use-case descriptions and sequence diagrams, using mock objects for external input and verification. Finally, it includes acceptance tests, which demonstrate all functional and non-functional requirements through a combination of automated tests derived from use-cases and manual tests with recorded observations of the results.",
+"class_type" : "Assignment",
+"syllabus_id" : 1,
+"updated_at" : "2023-01-12T04:54:50.000000Z",
+"event_date" : "2023-03-05"
+},
+{
+"event_name" : "Spring Break (no classes held)",
+"id" : 9,
+"created_at" : "2023-01-07T06:53:03.000000Z",
+"event_description" : "Monday, March 6 - Sunday, March 12 is Spring Break!",
+"class_type" : "Break!",
+"syllabus_id" : 1,
+"updated_at" : "2023-01-16T03:48:37.000000Z",
+"event_date" : "2023-03-06"
+},
+
+]
